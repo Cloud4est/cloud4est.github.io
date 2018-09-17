@@ -1,6 +1,6 @@
 ---
 title: Cloud4est
-timezone: UTC
+timezone: Europe/Budapest
 collections:
   posts:
     title: Posts
@@ -11,7 +11,7 @@ collections:
 email: youremailaddress@gmail.com
 description: Cloud4est main website
 baseurl: "/site_main"
-url: ''
+url: 
 author: 
 street_address: 1234 Somewhere Road
 city: Nashville
