@@ -1,5 +1,5 @@
 ---
-title: about
+title: rólunk
 image: pic03.jpg
 ---
 
