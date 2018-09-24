@@ -1,5 +1,6 @@
 ---
 layout: default
 ref: index
-lang: hu
+lang: en
+permalink: /en/
 ---
