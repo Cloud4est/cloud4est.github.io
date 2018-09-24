@@ -1,6 +1,7 @@
 ---
+permalink: "/en/"
 layout: default
 ref: index
 lang: en
-permalink: /en/
 ---
+
