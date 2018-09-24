@@ -1,5 +1,8 @@
 ---
 title: work
+ref: work
+lang: en
+order: 5
 image: pic02.jpg
 ---
 

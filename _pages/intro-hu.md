@@ -1,5 +1,8 @@
 ---
 title: intro
+ref: intro
+lang: hu
+order: 4
 image: pic01.jpg
 ---
 

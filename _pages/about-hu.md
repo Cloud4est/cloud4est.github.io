@@ -1,5 +1,8 @@
 ---
 title: rólunk
+ref: about
+lang: hu
+order: 1
 image: pic03.jpg
 ---
 

@@ -1,5 +1,8 @@
 ---
 title: contact
+ref: contact
+lang: en
+order: 2
 ---
 
 <form action="https://formspree.io/{{ site.email }}" method="POST">
