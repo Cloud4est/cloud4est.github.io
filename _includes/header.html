@@ -21,7 +21,7 @@
 					{% for page in pages %}
 					{% if page.title %}
 					<!-- page.path is: {{ page.path }} -->
-					<li><a href="#{{ page.ref }}">{{ page.title }}</a></li>
+					<li><a href="{% if page.link %}{{ page.link }}{% else %}#{{ page.ref }}{% endif %}">{{ page.title }}</a></li>
 					{% endif %}
 					{% endfor %}
 				</ul>
