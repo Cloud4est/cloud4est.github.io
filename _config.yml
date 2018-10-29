@@ -11,8 +11,8 @@ collections:
 email: youremailaddress@gmail.com
 description: Cloud4est main website
 baseurl: "/site_main"
-url:
-author:
+url: 
+author: 
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
@@ -21,15 +21,15 @@ country: United States of America
 phone: "(716) 555-5555"
 facebook_url: 
 github_url: https://github.com/Cloud4est/
-gitlab_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
+pinterest_url: 
+slack_url: 
+twitter_url: 
 include:
 - _pages
 markdown: kramdown
-sass:
+sass: 
 style: compressed
