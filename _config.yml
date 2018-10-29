@@ -11,7 +11,7 @@ collections:
 email: youremailaddress@gmail.com
 description: Cloud4est main website
 baseurl:
-url: 
+url: https://cloud4est.com
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
