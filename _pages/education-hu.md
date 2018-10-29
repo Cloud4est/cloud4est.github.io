@@ -2,8 +2,7 @@
 title: oktatás
 ref: education
 lang: hu
-link: https://cloud4est.github.io/site_education/
+link: https://education.cloud4est.com
 order: 5
 image: "/assets/images/pic01.jpg"
 ---
-

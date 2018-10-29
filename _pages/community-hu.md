@@ -2,7 +2,6 @@
 title: közösség
 ref: community
 lang: hu
-link: https://cloud4est.github.io/site_community/
+link: https://community.cloud4est.com
 order: 3
 ---
-

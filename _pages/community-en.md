@@ -2,7 +2,6 @@
 title: community
 ref: community
 lang: en
-link: https://cloud4est.github.io/site_community/en/
+link: https://community.cloud4est.com/en/
 order: 3
 ---
-

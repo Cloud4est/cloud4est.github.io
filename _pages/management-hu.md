@@ -2,7 +2,6 @@
 title: management
 ref: management
 lang: hu
-link: https://cloud4est.github.io/site_management/
+link: https://management.cloud4est.com
 order: 2
 ---
-
