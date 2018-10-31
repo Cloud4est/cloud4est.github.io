@@ -6,4 +6,4 @@ order: 4
 image: "/assets/images/pic02.jpg"
 ---
 
-A weboldal jelenleg még készülőben van.
+A weboldal jelenleg kidolgozás alatt ál.
