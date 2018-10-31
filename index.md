@@ -2,5 +2,9 @@
 layout: default
 ref: index
 lang: hu
+title: Cloud4est
 ---
 
+### Mi a Cloud4est?
+
+A Cloud4est egy közösség, melynek tagjai önfejlesztés, egyéni és csoportos tanulás révén mélyednek el a 21. századi kommunikációs rendszerek és az információ technológia világában. A munkaerőpiacon napjainkban olyan fiatalokat keresnek, akik az informatika valamelyik területén már mély ismeretekkel rendelkeznek, és képesek ezeket az ismerteteket egy komplex fejlesztési projekt keretei között alkalmazni is. A Cloud4est azért jött létre, hogy ezeket az ismereteket minél hatékonyabban lehessen elsajátítani, anélkül, hogy ehhez valamelyik szakképzési programba be kellene kapcsolódnia a résztvevőknek.
