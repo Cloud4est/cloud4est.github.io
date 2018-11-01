@@ -4,6 +4,7 @@ layout: default
 ref: index
 lang: en
 title: Cloud4est
+image: "/uploads/about-us-achievement-agreement-533405.jpg"
 ---
 
 ### What is Cloud4est?

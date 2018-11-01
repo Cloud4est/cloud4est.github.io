@@ -3,6 +3,7 @@ layout: default
 ref: index
 lang: hu
 title: Cloud4est
+image: "/uploads/about-us-achievement-agreement-533405.jpg"
 ---
 
 ### Mi a Cloud4est?
