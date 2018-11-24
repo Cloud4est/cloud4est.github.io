@@ -1,5 +1,6 @@
 ---
 title: management
+date: 2018-11-11 11:11:00 +01:00
 ref: management
 lang: en
 # link: https://management.cloud4est.com

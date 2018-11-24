@@ -1,5 +1,6 @@
 ---
 title: education
+date: 2018-11-11 11:11:00 +01:00
 ref: education
 lang: en
 # link: https://education.cloud4est.com
