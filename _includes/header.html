@@ -9,7 +9,7 @@
 			<div class="content">
 				<div class="inner">
 					<h1>{{ site.title }}</h1>
-					<p>{% if page.lang == "hu" %}{{ site.data.strings.descriptions.main.hu }}{% else %}{{ site.data.strings.descriptions.main.en }}{% endif %}</p>
+					<p>{{ description }}</p>
 							<ul class="actions">
 								<li><a style="border-bottom: none;" href="{% if page.lang == "hu" %}{{ site.url }}/en/{% else %}{{ site.url }}/{% endif %}"><input type="submit" value="{% if page.lang == "hu" %}{{ site.data.strings.words.lang.en }}{% else %}{{ site.data.strings.words.lang.hu }}{% endif %}"></input></a></li>
 							</ul>
