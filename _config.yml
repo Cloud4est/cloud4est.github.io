@@ -21,6 +21,7 @@ social:
     - https://www.instagram.com/cloud4st/
     - https://www.youtube.com/channel/UC1aBUmUZTGBWwj5N9ktfx7w
     - https://github.com/Cloud4est/
+    - https://www.linkedin.com/company/cloud4est/
 baseurl:
 url: https://cloud4est.com
 author:
@@ -35,6 +36,7 @@ github_url: https://github.com/Cloud4est/
 instagram_url: https://www.instagram.com/cloud4st/
 twitter_url: https://twitter.com/CD4ST
 youtube_url: https://www.youtube.com/channel/UC1aBUmUZTGBWwj5N9ktfx7w
+linkedin_url: https://www.linkedin.com/company/cloud4est/
 include:
 - _pages
 markdown: kramdown
