@@ -1,5 +1,5 @@
 ---
-title: Cloud4est
+title: Cloud4est - Innovational hub | Self-developer community | Innovációs csomópont | Önfejlesztő közösség
 timezone: Europe/Budapest
 plugins:
   - jekyll-seo-tag
@@ -25,12 +25,6 @@ social:
 baseurl:
 url: https://cloud4est.com
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: "(716) 555-5555"
 facebook_url: https://www.facebook.com/CD4ST
 github_url: https://github.com/Cloud4est/
 instagram_url: https://www.instagram.com/cloud4st/
@@ -40,5 +34,4 @@ linkedin_url: https://www.linkedin.com/company/cloud4est/
 include:
 - _pages
 markdown: kramdown
-sass:
 style: compressed

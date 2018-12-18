@@ -1,11 +1,11 @@
 ---
 permalink: "/en/"
 layout: default
-last_modified_at: 2018-11-25 00:27:00 +01:00
+last_modified_at: 2018-12-18 00:27:00 +01:00
 ref: index
 lang: en
-title: Cloud4est
-image: "/uploads/about-us-achievement-agreement-533405.jpg"
+title: Cloud4est - about us
+image: "/uploads/Montage_Logos_3_12-19.svg"
 ---
 
 ### What is Cloud4est?
