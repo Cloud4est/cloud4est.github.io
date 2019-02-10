@@ -15,6 +15,7 @@
 {% assign pages = site.pages | sort:"order" | where:"lang",page.lang %}
 {% for page in pages  %}
 {% if page.ref %}
+{% if page.link == nil %}
 
 <!-- {{ page.title }} -->
 <article id="{{ page.ref }}">
@@ -25,6 +26,7 @@
 </p>
 </article>
 
+{% endif %}
 {% endif %}
 {% endfor %}
 
