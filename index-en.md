@@ -4,6 +4,7 @@ layout: default
 last_modified_at: 2018-12-18 00:27:00 +01:00
 ref: index
 lang: en
+order: 1
 title: Cloud4est - about us
 image: "/uploads/Montage_Logos_3_12-19.svg"
 ---
